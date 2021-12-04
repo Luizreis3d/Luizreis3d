@@ -1,4 +1,4 @@
-### Hello There! (Obi-Wan feelings! =]) 👋
+### Hello There! 👋 ~Obi-Wan feelings! =]
 I'm Luiz Augusto Reis and welcome to my github repo!
 
 - 🌱 I’m currently learning Front-End Stack: HTML, CSS and JavaScript

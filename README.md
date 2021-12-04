@@ -10,3 +10,4 @@
 
 ### Technologies & Tools:
 * Web Development - Frontend by Cel.Lep Tech Programming School (HTML5, CSS3, Javascript, Node.js, React, Less/ SaaS and Bootstrap).
+* Microsoft office

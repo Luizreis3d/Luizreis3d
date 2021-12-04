@@ -1,4 +1,4 @@
-### Hello There! 👋 ~Obi-Wan feelings! =]
+# Hello There! 👋 ~Obi-Wan feelings! =]
 I'm Luiz Augusto Reis and welcome to my github repo!
 
 * I'm from Recife, Brazil.
@@ -8,5 +8,5 @@ I'm Luiz Augusto Reis and welcome to my github repo!
 * 📫 How to reach me: luizreis.3d@gmail.com or @luizreis3d
 
 
-# Technologies & Tools:
+## Technologies & Tools:
 * Web Development - Frontend by Cel.Lep Tech Programming School (HTML5, CSS3, Javascript, Node.js, React, Less/ SaaS and Bootstrap).

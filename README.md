@@ -1,5 +1,5 @@
-### Olá! 👋
-# I'm Luiz Augusto Reis and welcome to my github repo!
+### Hello There! (Obi-Wan feelings! =]) 👋
+I'm Luiz Augusto Reis and welcome to my github repo!
 
 - 🌱 I’m currently learning Front-End Stack: HTML, CSS and JavaScript
 - 🔭 I intend to become a full-stack pro. Initially studying Frontend development and .Net/C#.

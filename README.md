@@ -4,7 +4,7 @@
 * I'm from Recife, Brazil.
 * I'm Back-end and Front-end student.
 * I studied C and R programming language to start my backend studies.
-* Currently learning C#, .NET, Java, OOP, SQL and MySQL.
+* Currently learning C#, .NET, Java, OOP, SQL, MySQL and Linux fundamentals.
 * I speak Portuguese and English.
 
 * How to reach me: luizreis.3d@gmail.com or @luizreis3d

@@ -1,7 +1,6 @@
 > # Hello There! 👋 ~Obi-Wan Kenobi feelings! =]
 ### I'm Luiz Augusto Reis and welcome to my github!
 
-* I'm from Recife, Brazil.
 * I'm Back-end and Front-end student.
 * Currently learning C#, .NET, Java, OOP, SQL and MySQL.
 * I speak Portuguese and English.

@@ -2,7 +2,7 @@
 ### I'm Luiz Augusto Reis and welcome to my github!
 
 * I'm Back-end and Front-end student.
-* Currently learning Linux, .NET/C#, Java, OOP, SQL and MySQL.
+* Currently learning Linux, .NET/C#, Java, OOP, Javascript, SQL and MySQL.
 * I speak Portuguese and English.
 
 * How to reach me: luizreis.3d@gmail.com or @luizreis3d

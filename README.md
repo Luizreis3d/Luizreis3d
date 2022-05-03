@@ -9,7 +9,8 @@
 * Sou aspirante a desenvolvedor Back-end e suas tecnologias, com foco na MERN Stack (MongoDB, Express, React e Node.js).
 * Também estudo desenvolvimento Front-end e banco de dados relacionais e não relacionais, para ter domínio da arquitetura de um sistema web.
 
-* Como me contactar: luizreis.3d@gmail.com or @luizreis3d
+----
+## 📍 Como me contactar:  [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizreis.3d@gmail.com)](mailto:luizreis.3d@gmail.com)  ou  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luizreis3d/)](https://www.linkedin.com/in/luizreis3d/)
 
 
 ### Technologies & Tools:

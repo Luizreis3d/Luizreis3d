@@ -1,10 +1,4 @@
-> # 🕹️ It's a me, Mario! 😃
-> ![Mario programming](https://user-images.githubusercontent.com/63201995/166510361-9a5c891f-ce4e-46b8-bbb4-8294d3264cb6.gif)
-
-
-
-
-## Olá! Seja bem-vindo(a) ao meu Github! 🐳 
+# Olá! Seja bem-vindo(a) ao meu Github! 😃 
 
 Desenvolvedor Back-end com foco na MERN Stack 
 

@@ -16,7 +16,7 @@ Também estudo desenvolvimento Front-end e Banco de dados relacional para ter do
 
 ----
 ### Como me contactar 📧  
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizreis.3d@gmail.com)](mailto:luizreis.3d@gmail.com)  ou  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luizreis3d/)](https://www.linkedin.com/in/luizreis3d/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luizreis.3d@gmail.com)](mailto:luizreis.3d@gmail.com)  ou  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luizreis3d/)](https://www.linkedin.com/in/luizreis3d/)
 
 ----
 ### Technologies & Tools 💾

@@ -1,9 +1,10 @@
-> # Hello There! 👋 ~Obi-Wan Kenobi feelings! =]
-> ![hello-there-kenobi](https://user-images.githubusercontent.com/63201995/166510172-c85acdb2-61a0-4db5-afbc-8fdc5a5a9574.gif)
+> # 👋 It's a me, Mario! =]
+> ![Mario programming](https://user-images.githubusercontent.com/63201995/166510361-9a5c891f-ce4e-46b8-bbb4-8294d3264cb6.gif)
 
 
 
-### I'm Luiz Augusto Reis and welcome to my github!
+
+### Olá! Luiz Augusto Reis and welcome to my github!
 
 * I'm Back-end and Front-end student.
 * Currently learning Linux, .NET/C#, Java, OOP, SQL, MySQL and Spring Boot.

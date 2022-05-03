@@ -20,5 +20,4 @@ Também estudo desenvolvimento Front-end e Banco de dados relacional para ter do
 
 ----
 ### Technologies & Tools 💾
-* Web Development - Frontend by Cel.Lep Tech Programming School (HTML5, CSS3, Javascript, Node.js, React, Less/ SaaS and Bootstrap).
-* Microsoft office.
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)

@@ -1,16 +1,15 @@
-> # 👋 It's a me, Mario! =]
+> # 🕹️ It's a me, Mario! 😃
 > ![Mario programming](https://user-images.githubusercontent.com/63201995/166510361-9a5c891f-ce4e-46b8-bbb4-8294d3264cb6.gif)
 
 
 
 
-### Olá! Luiz Augusto Reis and welcome to my github!
+### ☕ Olá! Seja bem-vindo(a) ao meu Github! 🐳 
 
-* I'm Back-end and Front-end student.
-* Currently learning Linux, .NET/C#, Java, OOP, SQL, MySQL and Spring Boot.
-* I speak Portuguese and English.
+* Sou aspirante a desenvolvedor Back-end e suas tecnologias, com foco na MERN Stack (MongoDB, Express, React e Node.js).
+* Também estudo desenvolvimento Front-end e banco de dados relacionais e não relacionais, para ter domínio da arquitetura de um sistema web.
 
-* How to reach me: luizreis.3d@gmail.com or @luizreis3d
+* Como me contactar: luizreis.3d@gmail.com or @luizreis3d
 
 
 ### Technologies & Tools:

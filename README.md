@@ -10,7 +10,7 @@ Atualmente, meu foco nos estudos é o **Desenvolvimento Front-end**, porém tamb
 - **Cloud computing** (AWS);
 - **Planejamento, Gestão e Execução de projetos** de desenvolvimento web.
 
-Com o intuito de entender melhor como posso agregar o desenvolvimento de software a experiência do usuário, procuro estudar conceitos de UX/UI design, que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
+Com o intuito de entender melhor como posso agregar o **desenvolvimento de software** a **experiência do usuário**, procuro estudar conceitos de **UX/UI design**, que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
 
 Linguagens que vi no âmbito acadêmico:
 

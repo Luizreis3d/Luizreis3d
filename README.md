@@ -1,13 +1,23 @@
 # Olá! Seja bem-vindo(a) ao meu Github! 😃 
 
-Atualmente encontro-me cursando o **_Full Stack Development da Tera_** (Jun de 2022 - Fev de 2023). Um curso multidisciplinar de desenvolvimento de software com 500 horas, que vê com profundidade soluções **Front-end** (HTML, CSS e JavaScript, DOM, Responsividade, Consumo de APIs e Acessibilidade Web), **Back-end** (Algoritmos recursivos e Estrutura de Dados, Node.Js e Express, Mongo DB, Autenticação e Login e Integração de APIs), **Bibliotecas e Frameworks** (jQuery, Bootstrap e React), uma **segunda stack** com Python, Flask e SQL, **Cloud computing** (AWS) e **Planejamento, Gestão e Execução de Projetos** de desenvolvimento web.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas (IFPE)** e também estou participando da formação **Full Stack Development da Tera**. Um curso multidisciplinar de desenvolvimento de software com 500 horas, que teve início agora em Junho de 2022 e vai até Fevereiro de 2023.
 
-Para entender os limites entre o desenvolvimento de software e a Experiência do Usuário, também procuro estudar conceitos de UX e UI, já que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
+Atualmente, meu foco nos estudos é o **Desenvolvimento Front-end**, porém também estudarei no curso: 
 
+- **Desenvolvimento Back-end**;
+- **Bibliotecas e Frameworks** (jQuery, Bootstrap e React);
+- **Uma segunda stack com Python, Flask e SQL**;
+- **Cloud computing** (AWS);
+- **Planejamento, Gestão e Execução de projetos** de desenvolvimento web.
 
-Linguagem que iniciei.
+Com o intuito de entender melhor como posso agregar o desenvolvimento de software a experiência do usuário, procuro estudar conceitos de UX/UI design, que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
+
+Linguagens que vi no âmbito acadêmico:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ----
 ### Como me contactar 📧  

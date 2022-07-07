@@ -2,7 +2,7 @@
 
 Atualmente encontro-me cursando o **_Full Stack Development da Tera_** (Jun de 2022 - Fev de 2023). Um curso multidisciplinar de desenvolvimento de software com 500 horas, que vê com profundidade soluções **Front-end** (HTML, CSS e JavaScript, DOM, Responsividade, Consumo de APIs e Acessibilidade Web), **Back-end** (Algoritmos recursivos e Estrutura de Dados, Node.Js e Express, Mongo DB, Autenticação e Login e Integração de APIs), **Bibliotecas e Frameworks** (jQuery, Bootstrap e React), uma **segunda stack** com Python, Flask e SQL, **Cloud computing** (AWS) e **Planejamento, Gestão e Execução de Projetos** de desenvolvimento web.  
 
-Para entender os limites entre o desenvolvimento de software e a Experiência do Usuário, também estudo conceitos de UX e UI pela **_Origamid_**, já que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
+Para entender os limites entre o desenvolvimento de software e a Experiência do Usuário, também procuro estudar conceitos de UX e UI, já que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
 
 
 Linguagem que iniciei.

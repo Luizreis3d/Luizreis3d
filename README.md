@@ -4,7 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (IFPE)** e também est
 
 Atualmente meu foco nos estudos é o **Desenvolvimento Front-end** (HTML, CSS e JS), porém também estudarei no curso: 
 
-- **Desenvolvimento Back-end** (Node.Js, Express e Mongo DB);
+- **Desenvolvimento Back-end** (Node.Js, Express e MongoDB);
 - **Bibliotecas e Frameworks** (jQuery, Bootstrap e React);
 - **Uma segunda stack** com Python, Flask e SQL;
 - **Cloud computing** (AWS);

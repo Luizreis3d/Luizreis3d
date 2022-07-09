@@ -2,11 +2,11 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (IFPE)** e também estou participando da formação **Full Stack Development da Tera**. Um curso multidisciplinar de desenvolvimento de software com 500 horas, que teve início agora em Junho de 2022 e vai até Fevereiro de 2023.
 
-Atualmente meu foco nos estudos é o **Desenvolvimento Front-end**, porém também estudarei no curso: 
+Atualmente meu foco nos estudos é o **Desenvolvimento Front-end** (HTML, CSS e JS), porém também estudarei no curso: 
 
-- **Desenvolvimento Back-end**;
+- **Desenvolvimento Back-end** (Node.Js, Express e Mongo DB);
 - **Bibliotecas e Frameworks** (jQuery, Bootstrap e React);
-- **Uma segunda stack com Python, Flask e SQL**;
+- **Uma segunda stack** com Python, Flask e SQL;
 - **Cloud computing** (AWS);
 - **Planejamento, Gestão e Execução de projetos** de desenvolvimento web.
 

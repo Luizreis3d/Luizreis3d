@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu Github! 😃 
 
-Atualmente graduando em **Análise e Desenvolvimento de Sistemas** através do Embarque Digital (uma parceria entre a Prefeitura de Recife, por meio da Secretaria de Educação e o Porto Digital), e também participando do programa de Formação Acelerada em Programação (**Desenvolvimento Front-end**) pela Softex Pernambuco. Um curso multidisciplinar de desenvolvimento de software com 324 horas, que teve início agora em Julho de 2023 e vai até Dezembro de 2023.
+Atualmente graduando em **Análise e Desenvolvimento de Sistemas** através do Embarque Digital (uma parceria entre a Prefeitura de Recife, por meio da Secretaria de Educação e o Porto Digital), e também participando do programa de Formação Acelerada em Programação (**Desenvolvimento Front-end**) pela Softex Pernambuco. Um curso multidisciplinar de desenvolvimento de software com 324 horas, que teve início em Julho de 2023 e vai até Dezembro de 2023.
 
 Conteúdos da Formação Acelerada em Programação:
 - Lógica de programação e Orientação a Objetos.

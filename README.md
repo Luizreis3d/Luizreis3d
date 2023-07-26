@@ -1,23 +1,16 @@
 # Olá! Seja bem-vindo(a) ao meu Github! 😃 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (IFPE)** e também estou participando da formação **Full Stack Development da Tera**. Um curso multidisciplinar de desenvolvimento de software com 500 horas, que teve início agora em Junho de 2022 e vai até Fevereiro de 2023.
+Atualmente graduando em **Análise e Desenvolvimento de Sistemas pela Faculdade Senac** através do Embarque Digital (uma parceria entre a Prefeitura de Recife, por meio da Secretaria de Educação e o Porto Digital), e também participando do programa de Formação Acelerada em Programação (**Desenvolvimento Front-end**) pela Softex Pernambuco. Um curso multidisciplinar de desenvolvimento de software com 324 horas, que teve início agora em Julho de 2023 e vai até Dezembro de 2023.
 
-Atualmente meu foco nos estudos é o **Desenvolvimento Front-end** (HTML, CSS e JS), mas também estudarei pelo curso: 
+Conteúdos da Formação Acelerada em Programação:
+- Lógica de programação e Orientação a Objetos.
+- JavaScript.
+- HTML + CSS / SASS.
+- ReactJS.
+- Web services - Client.
+- Noções de UX.
 
-- **Desenvolvimento Back-end** (Node.Js, Express e MongoDB);
-- **Bibliotecas e Frameworks** (jQuery, Bootstrap e React);
-- **Uma segunda stack** com Python, Flask e SQL;
-- **Cloud computing** (AWS);
-- **Planejamento, Gestão e Execução** de projetos de desenvolvimento web.
-
-Com o intuito de entender melhor como posso agregar o **desenvolvimento de software** a **experiência do usuário**, procuro estudar conceitos de **UX/UI design**, que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
-
-Linguagens que vi no âmbito acadêmico:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+Com o intuito de melhor embasar meu conhecimento e ter mais expertise no **desenvolvimento de software**, procuro aliar estudos de **UX/UI design**, que são áreas mais que complementares e que precisam andar juntas ao longo do desenvolvimento de um produto digital.
 
 ----
 ### Como me contactar 📧  
